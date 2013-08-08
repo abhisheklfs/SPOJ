@@ -2,7 +2,7 @@ Spoj-Solutions
 ==============
 Hello, this is Abhishek Agrawal!!!
 Here are some of my attempts of SPOJ.
-I can't garuntee that its a right solution!!
+I can't garuntee that its a correct solution!!
 Please do not copy these solutions.
 
 please do give your feedback for my solution!! All are invited!!
