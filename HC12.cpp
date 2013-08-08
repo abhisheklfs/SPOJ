@@ -1,3 +1,8 @@
+/*
+User: abhisheklfs
+algo: inverse_modulo
+
+*/
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
